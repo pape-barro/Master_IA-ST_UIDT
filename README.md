@@ -2,7 +2,7 @@
  * ##  Université Iba Der Thiam de Thiès 
  * ##  UFR des Sciences et Technologies 
  * ##  Master en Intelligence Artificielle et Smart Technologie
- ** ### "Systèmes embarqués avanvés"
+ * ### "Systèmes embarqués avanvés"
  
   ``` - Organisation du travail(30h): ```
  * Cours magistral : 15h ;
