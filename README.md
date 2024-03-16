@@ -2,7 +2,7 @@
  * ##  Université Iba Der Thiam de Thiès 
  * ##  UFR des Sciences et Technologies 
  * ##  Master en Intelligence Artificielle et Smart Technologie
- * ### "Systèmes embarqués avanvés"
+ * ### Systèmes embarqués avanvés
  
   ``` - Organisation du travail(30h): ```
  * Cours magistral : 15h ;
@@ -22,4 +22,4 @@
  
  # ``` Contenu: ```
  1. [`Généralités, architecture et famille de microcontrôleurs, capteurs/Actionneurs`](https://github.com/pape-barro/Master_IA-ST_UIDT/blob/main/support_SE-p1.pdf) - ``` 14 Mars 2024 ``` ;
- 2. [`Programmation des microcontrôleurs`]() - ``` A suivre ... ``` ;
+ 2. [`Programmation des microcontrôleurs`] - ``` A suivre ... ``` ;
