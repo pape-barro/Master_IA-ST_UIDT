@@ -1,7 +1,8 @@
-# Master en Intelligence Artificielle et Smart Technologie
+# Année scolaire 2022-2023
  * ##  Université Iba Der Thiam de Thiès 
  * ##  UFR des Sciences et Technologies 
- * ##  Année scolaire 2021-2022
+ * ##  Master en Intelligence Artificielle et Smart Technologie
+ ** ### "Systèmes embarqués avanvés"
  
   ``` - Organisation du travail(30h): ```
  * Cours magistral : 15h ;
@@ -20,4 +21,5 @@
  * Quelques notions en C/C++/Python et en cablage électrique.
  
  # ``` Contenu: ```
- 1. [`support de cours`](https://github.com/pape-barro/Master_IA-ST_UIDT/blob/main/support_SE.pdf) - ```Janvier 2023 ``` ;
+ 1. [`Généralités, architecture et famille de microcontrôleurs, capteurs/Actionneurs`](https://github.com/pape-barro/Master_IA-ST_UIDT/blob/main/support_SE-p1.pdf) - ``` 14 Mars 2024 ``` ;
+ 2. [`Programmation des microcontrôleurs`]() - ``` A suivre ... ``` ;
