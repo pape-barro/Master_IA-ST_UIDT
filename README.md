@@ -22,4 +22,7 @@
  
  # ``` Contenu: ```
  1. [`Généralités, architecture et famille de microcontrôleurs, capteurs/Actionneurs`](https://github.com/pape-barro/Master_IA-ST_UIDT/blob/main/support_SE-p1.pdf) - ``` 14 Mars 2024 ``` ;
- 2. [`Programmation des microcontrôleurs`] - ``` A suivre ... ``` ;
+ 2. [`Programmation des microcontrôleurs`]() ;
+    * [`Programmation sous Arduino`](https://github.com/pape-barro/Master_IA-ST_UIDT/blob/main/support_SE-p2.pdf) - ``` 21 Mars 2024 ``` ;
+      * [`Cas pratiques`] - ``` A suivre ... ``` ;
+
